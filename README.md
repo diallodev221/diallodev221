@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @diallodeveloper 
-- 👀 I’m interested in Full-Stack Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Development 
+- 🌱 I’m currently learning many programming languages 
+- 💞️ I’m looking to collaborate on software projects 
+- 📫 How to reach me @saifoulaye.diallodev@gmail.com 
 
 <!---
 diallodeveloper/diallodeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
