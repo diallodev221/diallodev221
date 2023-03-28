@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saïfoulaye Diallo</h1>
-<h3 align="center">A passionate Software developer from Senegal</h3>
-<img align="center" src="https://www.anques.com/wp-content/uploads/2019/07/software-development.jpg">
+<h3 align="center">A passionate Software developement from Senegal</h3>
+<img align="center" src="https://drive.google.com/file/d/1rPeNn2PeNxwCB4rVWEljuRul6gNzTBHB/view?usp=share_link">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diallodeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="diallodeveloper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diallodeveloper" alt="diallodeveloper" /></a> </p>
