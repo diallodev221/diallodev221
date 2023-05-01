@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Software developement from Senegal</h3>
 <img align="center" src="https://cmcglobal.com.vn/wp-content/uploads/2020/11/Artboard-55.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diallodeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="diallodeveloper" />
-<img src="https://drive.google.com/file/d/1T3TFi8hQ6IxxJPk9LvG4nGj20QgcPZY3/view" />
 </p>
-
 
 
 ## About me: 
