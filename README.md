@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saïfoulaye Diallo </h1>
-<h3 align="center">A passionate Software developement from Senegal</h3>
+<h3 align="center">A passionate Software development from Senegal</h3>
 <img align="center" src="https://cmcglobal.com.vn/wp-content/uploads/2020/11/Artboard-55.png">
 <br/>
 
