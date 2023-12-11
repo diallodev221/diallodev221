@@ -118,11 +118,11 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/diallodeveloper/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="diallodeveloper's streak" src="https://streak-stats.demolab.com/?user=diallodeveloper&theme=tokyonight"/>
+    <a href="https://github.com/diallodev221/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="diallodev221's streak" src="https://streak-stats.demolab.com/?user=diallodev221&theme=tokyonight"/>
     </a>
 
   <h3>💻 Statistiques du profil GitHub</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="diallodeveloper's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=diallodeveloper&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1F222E&title_color=628fdb&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="diallodeveloper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diallodeveloper&langs_count=8&layout=compact&theme=tokyonight&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="diallodev221's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=diallodev221&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1F222E&title_color=628fdb&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="diallodeveloper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diallodev221&langs_count=8&layout=compact&theme=tokyonight&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
