@@ -123,10 +123,6 @@
 
 <h3> 📊 GitHub Stats:</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diallodev221&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-   
 ![](https://github-readme-stats.vercel.app/api?username=diallodev221&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diallodev221&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diallodev221&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
