@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/diallodev" target="blank"><img width="30px"  title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/diallo__dev" target="blank" alt="Twitter"><img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
+  <a href="https://x.com/diallo__dev" target="blank" alt="X"><img width="30px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/light/twitter-x.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/diallo_dev" target="blank"><img width="30px" alt="diallodeveloper" title="Diallo Dev Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
 </p>
