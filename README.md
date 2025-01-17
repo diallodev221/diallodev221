@@ -24,7 +24,7 @@
   <a href="https://x.com/diallo__dev" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/light/twitter-x.svg" alt="Twitter" width="32"/>
   </a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/saifou_diallo" target="_blank">
+  <a href="https://instagram.com/sayfou_diallo" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="32"/>
   </a>
 </p>
