@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saïfoulaye Diallo</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Senegal</h3>
+<h3 align="center">A Passionate Full-Stack Software Engineer from Senegal</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33afe6a0-9787-4aac-8217-b9d1d75bcefb" alt="Banner" style="max-width:100%;"/>
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full-Stack%20Developer;Java%20%7C%20Spring%20%7C%20Angular%20%7C%20React;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=00bfff&vCenter=true&pause=1000&size=22" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full-Stack%20Software%20Engineer;Java%20%7C%20Spring%20%7C%20Angular%20%7C%20React;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=00bfff&vCenter=true&pause=1000&size=22" alt="Typing animation"/>
   </a>
 </p>
 
